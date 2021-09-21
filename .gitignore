@@ -128,4 +128,4 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-./week3/hasyv2/*
+week3/hasyv2/

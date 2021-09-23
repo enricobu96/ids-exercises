@@ -1,1 +1,6 @@
 geopandas
+pandas
+numpy
+opencv-python
+scikit-learn
+scipy

@@ -17,3 +17,4 @@ distributed>=2.10.0
 scikit-mdr
 skrebate
 tpot
+opencv-contrib-python
